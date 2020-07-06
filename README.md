@@ -1,6 +1,6 @@
 # Django WebApp project as Test
 
-<h4>Parts:</h4>
+<h4>Steps:</h4>
 <ol>
     <li>Create a web-app where a user can login.</li>
     <li>User can upload files.</li>
