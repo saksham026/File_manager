@@ -33,10 +33,6 @@
     <li>Pillow</li>
     <li>Python Filer</li>
 </ul>
-  
-<h2>Note :</h2>
-
-<b>The Secret_Key required for the execution and debugging of project is not removed</b>
 
 <h2>Usage :</h2>
 
