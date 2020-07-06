@@ -1,6 +1,6 @@
-# Django WebApp project as Test
+# Django WebApp Project as Test
 
-<h4>Parts:</h4>
+<h4>Steps:</h4>
 <ol>
     <li>Create a web-app where a user can login.</li>
     <li>User can upload files.</li>
@@ -33,10 +33,6 @@
     <li>Pillow</li>
     <li>Python Filer</li>
 </ul>
-  
-<h2>Note :</h2>
-
-<b>The Secret_Key required for the execution and debugging of project is not removed</b>
 
 <h2>Usage :</h2>
 
